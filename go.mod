@@ -49,7 +49,7 @@ require (
 	github.com/rancher/permissions v0.0.0-20240924180251-69b0dcb34065
 	github.com/rancher/rancher/pkg/plan v0.0.0-20260508124826-0b6b24d9811e
 	github.com/rancher/wharfie v0.7.1-0.20251014190711-8cfe84a9efaa
-	github.com/rancher/wrangler/v3 v3.7.0
+	github.com/rancher/wrangler/v3 v3.7.1
 	github.com/sirupsen/logrus v1.9.4
 	github.com/urfave/cli/v2 v2.27.5
 	golang.org/x/sync v0.22.0
